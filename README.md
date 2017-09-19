@@ -51,3 +51,10 @@ CITA is currently under the GPLv3 license. See the LICENSE file for details.
 <img src="https://github.com/cryptape/assets/blob/master/cryptape-logo-transparency.png?raw=true" width="250">
 
 CITA is created by Cryptape LLC with :heart:.
+
+## Contact us
+
+Weichat Group:
+
+<img src="https://github.com/cryptape/assets/blob/master/cryptape-wechat.jpeg?raw=true" width="250">
+
