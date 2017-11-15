@@ -48,6 +48,9 @@ extern crate common_types as types;
 extern crate jsonrpc_types;
 extern crate cita_secp256k1;
 extern crate sha3;
+extern crate bincode;
+extern crate rand;
+extern crate zktx;
 
 #[cfg(test)]
 extern crate test;
@@ -88,3 +91,4 @@ pub mod contracts;
 pub use factory::*;
 pub use types::*;
 pub use util::journaldb;
+

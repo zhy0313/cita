@@ -38,6 +38,7 @@ cita-ed25519 = { path = "../../share_libs/ed25519" }
 cita-secp256k1 = { path = "../../share_libs/secp256k1" }
 cita-crypto = { path = "../../share_libs/crypto" }
 sha3 = { path = "../../share_libs/sha3" }
+zktx = { path = "../../share_libs/zktx" }
 
 protobuf = { version = "^1.0.0"}
 threadpool = "1.7.0"
